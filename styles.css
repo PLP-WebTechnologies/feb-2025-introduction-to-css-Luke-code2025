@@ -1,0 +1,59 @@
+/* Apply styles for body */
+body {
+    font-family: 'Arial', sans-serif; /* Use a different font */
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Style the header using ID */
+#main-header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Style the section using a class */
+.content-section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+}
+
+/* Style the paragraph inside the content section using a class */
+.intro-text {
+    font-size: 18px;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Style the image using ID */
+#sample-image {
+    width: 100%;
+    max-width: 300px;
+    border: 5px solid #333;
+    padding: 10px;
+    border-radius: 8px;
+}
+#sample_image{
+    width: 100%;
+    max-width: 300px;
+    border: 5px solid #333;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+/* Style the footer using a class */
+.footer-section {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 14px;
+}
